@@ -1,3 +1,4 @@
+//This cpp project shows basic operations on an array 
 #include <iostream>
 #include <bits/stdc++.h>
 
